@@ -25,9 +25,7 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-## Our Telegram Group
 
-* [public leech Group](https://telegram.dog/public_leech)
 
 ## Credits, and Thanks to
 
