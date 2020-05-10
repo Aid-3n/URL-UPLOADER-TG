@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hai, Am <b> Link to File v5.25 </b> Bot..
+    START_TEXT = """Hai,I Am URL Uploader
       
 ☛ URL with Custom Thumbnail Support..
 
