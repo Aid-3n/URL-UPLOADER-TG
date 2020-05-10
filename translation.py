@@ -4,9 +4,6 @@ class Translation(object):
 ☛ URL with Custom Thumbnail Support..
 
 ☛ Send - url | New Name.Extension
-
-☛My Support Group : <b> @Public_Leech
-                  </b>
                    
 ☛ /help for more details..."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -20,10 +17,10 @@ URL | filename | username | password"""
     UPLOAD_START = "uploading..."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @public_leech"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @public_leech \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank You For Using Me @AID_3N"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
