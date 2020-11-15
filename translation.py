@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hai,I Am URL Uploader
+    START_TEXT = """Hi,I Am URL Uploader
       
 ☛ URL with Custom Thumbnail Support..
 
@@ -10,11 +10,11 @@ class Translation(object):
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "This is Free Service. No Upgrade Plans 😜"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
-    SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
-URL | filename | username | password"""
+    SET_CUSTOM_USERNAME_PASSWORD = """**If you want to download premium videos, provide in the following format:
+URL | filename | username | password**"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "Downloading..."
-    UPLOAD_START = "uploading..."
+    UPLOAD_START = "**uploading**..."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank You For Using Me @AID_3N"
@@ -33,14 +33,16 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: ViP
-Expires on: Untill my death ☭"""
+Expires on: Untill my death """
     HELP_USER = """ <b>1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
-   File  - Give File without Screenshots</b>"""
+   File  - Give File without Screenshots
+   Support Channel : @SSABots
+   ©️ @Stefin_Babu @Njan_ORu_BheegaRaN @Pubg_effecter_lite</b>"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
